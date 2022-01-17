@@ -8,7 +8,6 @@ const initialState = {
   password: "",
   isMember: true,
   showAlert: false,
-  isMember: false,
 };
 
 const Register = () => {
